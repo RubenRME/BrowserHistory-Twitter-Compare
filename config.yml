@@ -1,0 +1,21 @@
+# This setting confirms that you agree to the EULA when using this program
+# By setting this setting to "True" you agree that your browsing history will be used while running the program.
+# Your browsing history is only used locally and will only be acessed when YOU run the program and when the Chrome browser is closed.
+EULA: False
+
+# Twitter API configuration
+api:
+  access_token:
+  access_secret:
+  consumer_key:
+  consumer_secret:
+
+# Twitter Username of the Subject
+subject_username: EngelbrechtLoL
+
+# Amount of days you want to search back (both tweets and browser history
+search_days: 3
+
+# Date and Time you want to search from, follows an exact format
+# Example: 2019-
+search_from: Now
